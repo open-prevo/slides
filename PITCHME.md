@@ -3,7 +3,7 @@
 <br><br><br><br><br><br>
 # Introduction
 
----
+---?image=bigPic.png&size=contain&color=white @title[Big Picture]
 #### Open-(Source) Vorsorge-Plattform für alle
 
 ---
