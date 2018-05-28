@@ -1,6 +1,7 @@
 ---?image=https://www.prevo.ch/images/prevo/prevo-logo.svg&size=auto 25%
 
-# OpenPrevo
+# Open
+##
 ## Introduction
 
 ---?image=bigPic.png&size=auto&color=white @title[Big Picture]
