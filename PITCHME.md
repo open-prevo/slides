@@ -1,12 +1,11 @@
 ---?image=https://www.prevo.ch/images/prevo/prevo-logo.svg&size=auto 25%
 @title[OpenPrevo]
 <br><br><br><br><br><br>
-## Introduction
+# Introduction
+
+---
+# Open-(Source) Vorsorge-Plattform für alle
 
 ---
 
-## Slide 2
-
----
-
-## Slide 3
+# Slide 3
