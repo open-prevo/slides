@@ -1,5 +1,8 @@
----?image=https://www.prevo.ch/images/prevo/prevo-logo.svg&size=auto&color=white
+---?image=https://www.prevo.ch/images/prevo/prevo-logo.svg&size=auto 25%
 @title[OpenPrevo]
+
+<br><br>
+
 ## OpenPrevo
 ### Introduction
 
