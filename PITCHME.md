@@ -39,7 +39,17 @@
 
 ---
 
-### License change
+### [License change](https://github.com/open-prevo/openprevo/issues/5)
+
+Change from MIT to EPL-2.0 + GPL
+
+Business friendly license
+
+EPL is weak copyleft
+
+Secondary license: GPL with strong copyleft
+
+idea: choose for best fit
 
 +++
 
@@ -48,6 +58,12 @@
 ---
 
 ### Naming / Glossary
+
+primary language is english
+
+[glossary](https://open-prevo.github.io/openprevo/#section-glossary) covers 4 languages: en, de, fr, it
+
+acronyms where applicable in english
 
 +++
 
