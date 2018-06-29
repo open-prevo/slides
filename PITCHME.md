@@ -17,17 +17,48 @@
 
 ### OpenPrevo Node v0
 
+Provide REST Endpoints for: 
+
+* Job-Start 
+* Job-End
+* Match Notification 
+
+Consumes static data for the moment.
+
 +++
 
-### details
+### Demo
+
+Start two different node instances: 
+
+``` bash
+ ./gradlew clean build
+ cd docker
+ docker-compose up --build ve_node pakt_node
+```
+They're configured to serve pre-defined static data.
 
 ---
 
 ### OpenPrevo Hub v0
 
+Provides a list of hard-coded nodes. 
+Consume insurant data from nodes. 
+Execute simple matching based on OASI number. 
+Notify nodes for a given match.  
+ 
 +++
 
-### details
+### Demo
+
+Start the hub and verify the matching:
+
+``` bash
+ ./gradlew clean build
+ cd docker
+ docker-compose up --build hub
+```
+Should match have two matches.
 
 ---
 
