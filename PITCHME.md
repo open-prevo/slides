@@ -1,21 +1,21 @@
 ---?image=https://www.prevo.ch/images/prevo/prevo-logo.svg&size=contain
 
-### Review #
+### Review #02
 # Open
 
 ---
 
 ### topics today
 
-#### abc
-#### def
-#### ghi
-#### jkl
-#### mno
+#### OpenPrevo Node v0
+#### OpenPrevo Hub v0
+#### PAKT integration
+#### License change
+#### Naming / Glossary
 
 ---
 
-### abc
+### OpenPrevo Node v0
 
 +++
 
@@ -23,7 +23,7 @@
 
 ---
 
-### def
+### OpenPrevo Hub v0
 
 +++
 
@@ -31,7 +31,7 @@
 
 ---
 
-### ghi
+### PAKT integration
 
 +++
 
@@ -39,7 +39,7 @@
 
 ---
 
-### jkl
+### License change
 
 +++
 
@@ -47,7 +47,7 @@
 
 ---
 
-### mno
+### Naming / Glossary
 
 +++
 
