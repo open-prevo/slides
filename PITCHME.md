@@ -55,6 +55,10 @@ idea: choose for best fit
 
 ### details
 
+[EPL-2.0 license](https://www.eclipse.org/legal/epl-2.0/)
+
+[License header](https://github.com/open-prevo/openprevo/blob/master/build.gradle) in **each** file
+
 ---
 
 ### Naming / Glossary
@@ -70,3 +74,7 @@ acronyms where applicable in english
 +++
 
 ### details
+
+please review / comment!
+
+add issues / pull requests!
