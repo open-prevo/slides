@@ -61,6 +61,8 @@ idea: choose for best fit
 
 primary language is english
 
+idea: no swiss primary language has a lead
+
 [glossary](https://open-prevo.github.io/openprevo/#section-glossary) covers 4 languages: en, de, fr, it
 
 acronyms where applicable in english
