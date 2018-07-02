@@ -81,7 +81,7 @@ Should match have two matches.
 
 ### [License change](https://github.com/open-prevo/openprevo/issues/5)
 
-Change from MIT to EPL-2.0 + GPL
+Change from MIT to [EPL-2.0](https://github.com/open-prevo/openprevo/blob/master/LICENSE) + GPL
 
 Business friendly license
 
