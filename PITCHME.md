@@ -43,9 +43,7 @@ externalize hub and node configuration
 
 #### first sprint refinement
 
-+++
-
-![sprint refinement](sf.jpg)
++++?image=sf.jpg&size=contain
 
 ---
 
