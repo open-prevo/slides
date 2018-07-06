@@ -39,7 +39,8 @@ externalize hub and node configuration
 
 #### 3 sprints over <-> 3 sprints left
 
-#### new PO for the last 2 sprints due to vacation
+#### new PO for the last 2 sprints 
+due to vacation
 
 #### first sprint refinement
 
