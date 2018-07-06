@@ -31,21 +31,23 @@ Participate with Excel-File and get matches from PAKT
 
 externalize hub and node configuration
 
-PO for the last 2 sprints
-
 [unified naming](https://github.com/open-prevo/openprevo/issues/41) in code and docu
-
-+++
-
-### details
 
 ---
 
 ### What's next?
 
+#### 3 sprints over <-> 3 sprints left
+
+#### new PO for the last 2 sprints due to vacation
+
+#### first sprint refinement
+
 +++
 
 ### details
+
+![sprint refinement](sf.jpg)
 
 ---
 
