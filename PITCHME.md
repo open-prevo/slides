@@ -7,15 +7,17 @@
 
 ### topics today
 
-#### abc
-#### def
-#### ghi
-#### jkl
-#### mno
+#### sprint goal 
+
+Participate with Excel-File and get matches from PAKT
+
+#### side topics
+
+#### What's next?
 
 ---
 
-### abc
+### Excel <- Hub -> PAKT
 
 +++
 
@@ -23,7 +25,15 @@
 
 ---
 
-### def
+### side topics
+
+[legal background](https://open-prevo.github.io/openprevo/#_legal_compliance) added to arc42: FZL and BVG
+
+externalize hub and node configuration
+
+PO for the last 2 sprints
+
+[unified naming](https://github.com/open-prevo/openprevo/issues/41) in code and docu
 
 +++
 
@@ -31,7 +41,7 @@
 
 ---
 
-### ghi
+### What's next?
 
 +++
 
@@ -39,16 +49,4 @@
 
 ---
 
-### jkl
-
-+++
-
-### details
-
----
-
-### mno
-
-+++
-
-### details
+### Thanks! - Q&A?
