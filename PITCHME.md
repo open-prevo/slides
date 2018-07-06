@@ -45,8 +45,6 @@ externalize hub and node configuration
 
 +++
 
-### details
-
 ![sprint refinement](sf.jpg)
 
 ---
