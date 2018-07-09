@@ -7,6 +7,7 @@
 
 ### topics today
 
+#### integration testing
 #### sprint goal 
 
 Participate with Excel-File and get matches from PAKT
@@ -14,6 +15,22 @@ Participate with Excel-File and get matches from PAKT
 #### side topics
 
 #### What's next?
+
+---
+
+### Integration Test
+
+Start two nodes in a docker container
+
+Execute matching against nodes.
+
++++
+
+### details
+
+Demo
+
+Builds locally or on Travis CI
 
 ---
 
