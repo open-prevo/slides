@@ -8,6 +8,7 @@
 ### topics today
 
 #### integration testing
+
 #### sprint goal 
 
 Participate with Excel-File and get matches from PAKT
@@ -32,13 +33,11 @@ Demo
 
 Builds locally or on Travis CI
 
+Notify match implemented for Excel node
+
 ---
 
 ### Excel <- Hub -> PAKT
-
-+++
-
-### details
 
 ---
 
@@ -48,7 +47,7 @@ Builds locally or on Travis CI
 
 externalize hub and node configuration
 
-[unified naming](https://github.com/open-prevo/openprevo/issues/41) in code and docu
+date field and handling for matches added
 
 ---
 
