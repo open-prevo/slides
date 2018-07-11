@@ -1,7 +1,7 @@
----?image=https://www.prevo.ch/images/prevo/prevo-logo.svg&size=contain
+---?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain&opacity=20
 
 ### Review #
-# Open
+# OpenPrevo
 
 ---
 
