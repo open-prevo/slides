@@ -7,48 +7,51 @@
 
 ### topics today
 
-#### abc
-#### def
-#### ghi
-#### jkl
-#### mno
+#### notify in excel file
+#### use SPI to load adapter
+#### notify in PAKT
+#### demo build 
 
 ---
 
-### abc
+### Notify in excel file
+
+Write an Excel file per Match containing all necessary information.
 
 +++
 
-### details
+### demo
 
 ---
 
-### def
+### Service Provider Interface
 
-+++
+We are now loading the adapter at runtime. 
 
-### details
+The adapter must be provided on the classpath and can be loaded via SPI. 
 
----
-
-### ghi
-
-+++
-
-### details
+Adapter implementation is framework independent.
 
 ---
 
-### jkl
+### Notify in PAKT
 
 +++
 
-### details
+### demo
 
 ---
 
-### mno
+### demo build 
+
+Create a ZIP file that contains everything needed to demo OpenPrevo. 
+
+Demo contains 3 different Nodes that can be started and the Hub. 
+
+The baloise node can be switched between PAKT and Excel. (depending on the network) 
 
 +++
 
-### details
+### demo
+
+ 
