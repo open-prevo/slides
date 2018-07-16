@@ -62,8 +62,11 @@ Write an Excel file per Match containing all necessary information.
 
 ### [DINAcon Award](https://github.com/open-prevo/openprevo/issues/52)
 
-DINAcon Konferenz für digitale Nachhaltigkeit findet am
+DINAcon Konferenz für digitale Nachhaltigkeit
+
 Freitag, 19. Oktober 2018
+
+Welle7 Workspace in Bern
 
 ---
 
