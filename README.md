@@ -17,4 +17,6 @@
 
 ### [05](http://gitpitch.com/open-prevo/slides/review-05)
 
+### [06](http://gitpitch.com/open-prevo/slides/review-06)
+
 ## [branch-sync](branchSync.md)
