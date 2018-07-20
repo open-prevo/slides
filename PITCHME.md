@@ -10,9 +10,8 @@
 #### Aktueller Stand 
 #### Verschlüsselung 
 #### Verarbeitung in Pakt
-#### Legal
 #### Diverse Verbesserungen
-#### Ausblick letzte Sprint
+#### Ausblick letzter Sprint
 
 ---
 
@@ -41,8 +40,9 @@ Die verschlüsselte AHV-Nummer ist für das Matching ausreichend.
 Rückschlüsse nicht direkt möglich.
 
 Beispiel: 
-> mJvKLoFIa7rFOm7joyRbcm0PNcZPXKv6ke4Kz3eTQAYYEqWEO/9yr2nW8IahN6fjgIRUFGIq/zG1U1vQfEzPWQ==
-
+```
+mJvKLoFIa7rFOm7joyRbcm0PNcZPXKv6ke4Kz3eTQAYYEqWEO/9yr2nW8IahN6fjgIRUFGIq/zG1U1vQfEzPWQ==
+```
 +++
 
 ### Zahlungsinformationen
@@ -54,8 +54,12 @@ Werden mit public-Key der alten VE verschlüsselt.
 Nur von der alten VE lesbar.
 
 Beispiel
-> uE6x2OljjvEXFclVzVYGYuBE6uUKyvmDAm2VlfYn/tw49v8Ip8Hz9tAjt7lKBIdXOSdA4E8tAaX5s+WlFW1edWUe9/QT/15KTIIh0ZdF0amQHRxt3zfoGYHWJ4u6XU70vmam2vr8emQCOpDRgSHJyo6mDzdlRQ5gvDpi/ihHBKrPwXJRpFScocf5I7BJhi7x/MhktqXLAJHRm+PjpOG0BP3ELn3ncfyK6XZTGkg0g395y7d9SXs25vwpB4X62rO0IqMkvFZy0Zb0mNOpSL4aJcKEHqfqDzzOO+rXNx/mp0k=
-
+```
+uE6x2OljjvEXFclVzVYGYuBE6uUKyvmDAm2VlfYn/tw49v8Ip8Hz9tAjt7lKBIdXOSdA4E8tAaX5s+
+WlFW1edWUe9/QT/15KTIIh0ZdF0amQHRxt3zfoGYHWJ4u6XU70vmam2vr8emQCOpDRgSHJyo6mDzdl
+RQ5gvDpi/ihHBKrPwXJRpFScocf5I7BJhi7x/MhktqXLAJHRm+PjpOG0BP3ELn3ncfyK6XZTGkg0g3
+95y7d9SXs25vwpB4X62rO0IqMkvFZy0Zb0mNOpSL4aJcKEHqfqDzzOO+rXNx/mp0k=
+```
 ---
 
 ### Verarbeitung in Pakt
@@ -64,17 +68,11 @@ Beispiel
 
 ---
 
-### Legal
+### Diverse Verbesserungen
 
-> TODO
+Automatisches Testen Node - Hub - Node. (Real End-to-End)
 
----
-
-### Dieverse Verbesserungen
-
-Automatisches Testen Node - Hub - Node.
-
-demo.zip (Testdaten, Publizierung).
+Automatische Releases der Demo: [demo.zip](https://github.com/open-prevo/openprevo/releases)
 
 ---
 
