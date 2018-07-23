@@ -15,13 +15,17 @@
 
 ---
 
-### Aktueller Stand 
+### Aktueller Stand (1/2)
 
 - Vorbereitete Ausgangslage für Dienstaustritt in PAKT
 
 - Download des demo.zip auf meinen PC
 
 - Anpassen der Configurationsdateien für den NodeBaloisePakt
+
++++
+
+### Aktueller Stand (2/2)
 
 - Durchführen Dienstaustritt in PAKT
 
