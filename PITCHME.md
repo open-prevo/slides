@@ -86,6 +86,8 @@ Automatisches Testen Node - Hub - Node. (Real End-to-End)
 
 Automatische Releases der Demo: [demo.zip](https://github.com/open-prevo/openprevo/releases)
 
+Speichern der notifizierten Matches auf dem Hub
+
 ---
 
 ### Ausblick letzte Sprint
