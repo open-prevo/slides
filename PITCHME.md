@@ -17,7 +17,17 @@
 
 ### Aktueller Stand 
 
-> TODO
+- Vorbereitete Ausgangslage für Dienstaustritt in PAKT
+
+- Download des demo.zip auf meinen PC
+
+- Anpassen der Configurationsdateien für den NodeBaloisePakt
+
+- Durchführen Dienstaustritt in PAKT
+
+- Match mit Diensteintritt Swisscanto
+
+- Verschlüsselte Übermittlung der Zahlungsinformationen und automatische Auszahlung der FZL in PAKT
 
 ---
 
