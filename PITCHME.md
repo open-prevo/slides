@@ -9,7 +9,6 @@
 
 #### Aktueller Stand 
 #### Verschlüsselung 
-#### Verarbeitung in Pakt
 #### Diverse Verbesserungen
 #### Ausblick letzter Sprint
 
@@ -74,11 +73,6 @@ WlFW1edWUe9/QT/15KTIIh0ZdF0amQHRxt3zfoGYHWJ4u6XU70vmam2vr8emQCOpDRgSHJyo6mDzdl
 RQ5gvDpi/ihHBKrPwXJRpFScocf5I7BJhi7x/MhktqXLAJHRm+PjpOG0BP3ELn3ncfyK6XZTGkg0g3
 95y7d9SXs25vwpB4X62rO0IqMkvFZy0Zb0mNOpSL4aJcKEHqfqDzzOO+rXNx/mp0k=
 ```
----
-
-### Verarbeitung in Pakt
-
-> TODO
 
 ---
 
