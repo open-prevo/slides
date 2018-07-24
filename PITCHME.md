@@ -13,11 +13,19 @@
 
 <img src="http://yuml.me/diagram/plain/activity/(start)->(new employment),(new employment)->|a|,|a|->(notify old employer)->(notify old RF)->(contact person),|a|->(notify new employer)->(notify new RF)->(contact person)->(notify old RF)-><c>[is valid]->(send money and document)->(end),<c>[invalid]->(notify old RF).svg"/>
 
+many manual tasks
+
+insured person is involved
+
 +++
 
 ## MVP - the idea
 
 <img src="http://yuml.me/diagram/plain/activity/(start)->(new employment),(new employment)->|a|,|a|->(notify old employer)->(notify old RF)->(use OpenPrevo),|a|->(notify new employer)->(notify new RF)->(use OpenPrevo)-><c>[new RF found]->(notify RFs, send money and document)->(end),<c>[no result]->(notify old RF).svg"/>
+
+automate: reduce manual tasks
+
+where applicable: skip manual interaction
 
 ---
 
