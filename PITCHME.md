@@ -27,11 +27,11 @@ automate: reduce manual tasks
 
 where applicable: skip manual interaction
 
----?image=https://rawgit.com/open-prevo/openprevo/blob/master/doc/arc42/images/businessContext.svg&size=contain
+---?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/businessContext.svg&size=contain
 
-+++image=https://rawgit.com/open-prevo/openprevo/blob/master/doc/arc42/images/mvpBusinessContext.svg&size=contain
++++image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/mvpBusinessContext.svg&size=contain
 
-+++?image=https://rawgit.com/open-prevo/openprevo/blob/master/doc/arc42/images/matchFlow.svg&size=contain
++++?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/matchFlow.svg&size=contain
 
 ---
 
