@@ -5,4 +5,20 @@
 
 ---?image=bigPic.png&size=contain&color=white @title[Big Picture]
 
-#### Open-(Source) Vorsorge-Plattform für alle
+#### a shared open-(source) platform
+
++++ OpenPrevo MVP
+
+---
+
+## Who's involved
+
+### [Baloise Group](https://www.baloise.com)
+### [Helvetia](https://www.helvetia.com)
+### [Prevo-System AG](https://www.prevo.ch)
+
+---
+
+## Resources
+
+### [OpenPrevo @ Github](https://github.com/open-prevo)
