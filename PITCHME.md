@@ -11,17 +11,17 @@
 
 ## Agile: step-by-step
 
-+++
++++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Monument_Valley_05.jpg/1280px-Monument_Valley_05.jpg&size=contain&opacity=50
 
 ## minimal viable product (MVP)
 notify old and new retirement fund (RF)
 
-+++
++++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Monument_Valley_05.jpg/1280px-Monument_Valley_05.jpg&size=contain&opacity=50
 
 ## next step
 platform for RFs, employers and employees
 
-+++
++++?image=hhttps://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Monument_Valley.JPG/1280px-Monument_Valley.JPG&size=contain&opacity=50
 
 ## vision
 all stakeholders gain access for data insight and exchange
@@ -36,7 +36,7 @@ many manual tasks - insured person is involved
 
 <img src="http://yuml.me/diagram/plain/activity/(start)->(new employment),(new employment)->|a|,|a|->(notify old employer)->(notify old RF)->(use OpenPrevo),|a|->(notify new employer)->(notify new RF)->(use OpenPrevo)-><c>[new RF found]->(notify RFs, send money and document)->(end),<c>[no result]->(notify old RF).svg"/>
 
-automate: reduce manual tasks - where applicable: skip manual interaction
+automate: reduce manual tasks
 
 ---?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/businessContext.svg&size=contain
 
