@@ -5,15 +5,26 @@
 
 ---?image=bigPic.png&size=contain&color=white @title[Big Picture]
 
-#### a shared open-(source) platform
+#### shared open-(source) platform
 
-+++?image=https://thecrmteam.com/wp-content/uploads/2018/03/MVP.png&size=contain&opacity=30
++++?image=https://thecrmteam.com/wp-content/uploads/2018/03/MVP.png&size=contain
 
-## Milestones
+## Milestones - agile: step-by-step
 
-### minimal viable product: notify old and new retirement fund (RF)
-### next steps: platform for RFs, employers and employees
-### vision: all stakeholders gain access for data insight and exchange
++++
+
+## minimal viable product (MVP)
+notify old and new retirement fund (RF)
+
++++
+
+## next steps
+### platform for RFs, employers and employees
+
++++
+
+## vision
+### all stakeholders gain access for data insight and exchange
 
 ---
 
@@ -21,19 +32,13 @@
 
 <img src="http://yuml.me/diagram/plain/activity/(start)->(new employment),(new employment)->|a|,|a|->(notify old employer)->(notify old RF)->(contact person),|a|->(notify new employer)->(notify new RF)->(contact person)->(notify old RF)-><c>[is valid]->(send money and document)->(end),<c>[invalid]->(notify old RF).svg"/>
 
-many manual tasks
+many manual tasks - insured person is involved
 
-insured person is involved
-
-+++
-
-## MVP - the idea
+### the idea
 
 <img src="http://yuml.me/diagram/plain/activity/(start)->(new employment),(new employment)->|a|,|a|->(notify old employer)->(notify old RF)->(use OpenPrevo),|a|->(notify new employer)->(notify new RF)->(use OpenPrevo)-><c>[new RF found]->(notify RFs, send money and document)->(end),<c>[no result]->(notify old RF).svg"/>
 
-automate: reduce manual tasks
-
-where applicable: skip manual interaction
+automate: reduce manual tasks - where applicable: skip manual interaction
 
 ---?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/businessContext.svg&size=contain
 
