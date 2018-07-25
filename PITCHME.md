@@ -39,9 +39,13 @@ many manual tasks - insured person is involved
 
 automate: reduce manual tasks
 
----?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/businessContext.svg&size=contain
++++?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/businessContext.svg&size=contain
+
+## EXamples
 
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/mvpBusinessContext.svg&size=contain
+
+## Hub <-> Node <-> PAKT
 
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/matchFlow.svg&size=contain
 
