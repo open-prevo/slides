@@ -7,7 +7,15 @@
 
 #### a shared open-(source) platform
 
-+++
++++?image=https://thecrmteam.com/wp-content/uploads/2018/03/MVP.png&size=contain&opacity=30
+
+## Milestones
+
+### minimal viable product: notify old and new retirement fund (RF)
+### next steps: platform for RFs, employers and employees
+### vision: all stakeholders gain access for data insight and exchange
+
+---
 
 ## MVP - the problem
 
