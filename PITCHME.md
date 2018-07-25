@@ -24,7 +24,8 @@ platform for RFs, employers and employees
 +++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Monument_Valley.JPG/1280px-Monument_Valley.JPG
 
 ## vision
-all stakeholders gain access 
+all stakeholders gain access
+
 data insight and exchange
 
 ---
