@@ -41,19 +41,13 @@ automate: reduce manual tasks
 
 +++
 
-EXamples
-
 ![Business context](https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/businessContext.svg)
 
 +++
 
-## Hub <-> Node <-> PAKT
-
 ![MVP business context](https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/mvpBusinessContext.svg)
 
 +++
-
-## Hub: Match Flow
 
 ![OpenPrevo Hub match flow](https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/matchFlow.svg)
 
