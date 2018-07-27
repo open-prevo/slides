@@ -27,11 +27,9 @@
 +++?image=mvpPic.png&size=contain&color=white @title[MVP]
 #### minimal viable product (MVP)
 
-+++
++++?image=https://thecrmteam.com/wp-content/uploads/2018/03/MVP.png&size=contain
 
 ## Agile: step-by-step
-
-+++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Monument_Valley_05.jpg/1280px-Monument_Valley_05.jpg
 
 ---
 
