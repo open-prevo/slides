@@ -24,11 +24,10 @@
 +++?image=bigPic.png&size=contain&color=white @title[Big Picture]
 #### shared open-(source) platform
 
-+++
-
----?image=mvpPic.png&size=contain&color=white @title[MVP]
++++?image=mvpPic.png&size=contain&color=white @title[MVP]
 #### minimal viable product (MVP)
-notify old and new retirement fund (RF)
+
++++
 
 ## Agile: step-by-step
 
