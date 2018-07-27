@@ -21,11 +21,18 @@
 ### Intro
 # OpenPrevo
 
----?image=bigPic.png&size=contain&color=white @title[Big Picture]
++++?image=bigPic.png&size=contain&color=white @title[Big Picture]
+#### shared open-(source) platform
 
 +++
 
 ---?image=mvpPic.png&size=contain&color=white @title[MVP]
+#### minimal viable product (MVP)
+notify old and new retirement fund (RF)
+
+## Agile: step-by-step
+
++++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Monument_Valley_05.jpg/1280px-Monument_Valley_05.jpg
 
 ---
 
