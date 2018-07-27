@@ -2,7 +2,7 @@
 
 ### Review #06
 # OpenPrevo
-# 30.07.2018
+### 30.07.2018
 
 ---
 
@@ -13,14 +13,14 @@
 #### Demo MVP
 #### OpenSource Vorgehen
 #### Security and data protection
-#### added this sprint
+#### new this sprint
 #### Ausblick
 
 ---
 
 ### MVP - Kontext
 
-?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/businessContext.svg
++++?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/businessContext.svg
 
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/mvpBusinessContext.svg
 
@@ -37,14 +37,15 @@
 +++
 
 ### 2. Demo
-- einfach Demonstrierbarkeit
+- einfache Demonstrierbarkeit
 - ohne IT Skills
 
 +++
 
-### 3. >P<
+### 3. 'P' im MVP
 - P = produktivsetzungsfähig
-- muss noch nicht weltweit erreichbar sein (laufen)
+- Schritte sind dokumentiert
+- muss noch nicht weltweit erreichbar sein
 
 ---
 
@@ -56,23 +57,33 @@
 - PAKT, Nodes und Hub laufen auf einem PC
 - Validierung und Ergebnis in PAKT und Excel
 
++++
+
+*Demo*
+
 ---
 
 ## Resources
 
 ### [OpenPrevo @ Github](https://github.com/open-prevo)
-### [OpenPrevo Slides](https://github.com/open-prevo/slides)
-### [OpenPrevo Build](https://travis-ci.org/open-prevo/openprevo)
-### [OpenPrevo Chat](https://gitter.im/open-prevo/Lobby)
+### [Slides](https://github.com/open-prevo/slides)
+### [Demo.zip Release](https://github.com/open-prevo/openprevo/releases)
+### [Travis Build](https://travis-ci.org/open-prevo/openprevo)
+### [Gitter Chat](https://gitter.im/open-prevo/Lobby)
 
 +++
 
 ### Security and data protection
 
-- private and public-key, Asymmetric Encryption, RSA
+- private and public-key
+- Asymmetric Encryption, RSA
 - Hashing AHV
 
-out-of-scope for the MVP
+_TODO: check_
+
++++
+
+####out-of-scope for the MVP
 - authentication
 - Transport-Layer Security (HTTPS)
 Public Key Registry
@@ -80,24 +91,19 @@ Public Key Registry
 - Details in [Arc42](https://open-prevo.github.io/openprevo/#_security_and_data_protection)
 ---
 
-### ghi
+#### new this sprint
+
+_TODO_
 
 +++
 
-### details
+### Ausblick
+
+- MVP ist zu Ende
+- Product befindet sich auf GitHub
+- Steering Comitee tagt am 14.08.
 
 ---
+### Questions?
 
-### jkl
-
-+++
-
-### details
-
----
-
-### mno
-
-+++
-
-### details
+<img src="https://staffino.com/blog/wp-content/uploads/2016/09/594042-2.jpg"/>
