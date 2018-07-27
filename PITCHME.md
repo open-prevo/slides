@@ -33,7 +33,8 @@
 
 ---
 
-### MVP - Kontext
+### MVP
+### business context
 
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/businessContext.svg
 
