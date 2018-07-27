@@ -18,6 +18,17 @@
 
 ---
 
+### Intro
+# OpenPrevo
+
+---?image=bigPic.png&size=contain&color=white @title[Big Picture]
+
++++
+
+---?image=mvpPic.png&size=contain&color=white @title[MVP]
+
+---
+
 ### MVP - Kontext
 
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/arc42/images/businessContext.svg
@@ -27,10 +38,10 @@
 
 ---
 
-### Die drei Ziele des MVP
+## Die drei Ziele des MVP
 ### 1. MVP
 - Excel => Excel
-- Exdel => PAKT
+- Excel => PAKT
 - PAKT => Excel
 - PAKT => PAKT
 
@@ -44,7 +55,7 @@
 
 ### 3. 'P' im MVP
 - P = produktivsetzungsfähig
-- Schritte sind dokumentiert
+- weitere Schritte sind dokumentiert
 - muss noch nicht weltweit erreichbar sein
 
 ---
@@ -67,11 +78,11 @@
 
 ### [OpenPrevo @ Github](https://github.com/open-prevo)
 ### [Slides](https://github.com/open-prevo/slides)
-### [Demo.zip Release](https://github.com/open-prevo/openprevo/releases)
+### [Releases](https://github.com/open-prevo/openprevo/releases)
 ### [Travis Build](https://travis-ci.org/open-prevo/openprevo)
 ### [Gitter Chat](https://gitter.im/open-prevo/Lobby)
 
-+++
+---
 
 ### Security and data protection
 
@@ -83,10 +94,10 @@ _TODO: check_
 
 +++
 
-####out-of-scope for the MVP
+###out-of-scope for the MVP
 - authentication
 - Transport-Layer Security (HTTPS)
-Public Key Registry
+- Public Key Registry
 
 - Details in [Arc42](https://open-prevo.github.io/openprevo/#_security_and_data_protection)
 ---
