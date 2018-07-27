@@ -45,10 +45,10 @@
 
 ## Die drei Ziele des MVP
 ### 1. MVP
-- Excel => Excel
-- Excel => PAKT
-- PAKT => Excel
-- PAKT => PAKT
+- Excel → Excel
+- Excel → PAKT
+- PAKT → Excel
+- PAKT → PAKT
 
 +++
 
@@ -100,12 +100,12 @@
 
 +++
 
-### out-of-scope for the MVP
+### out-of-scope for MVP
 - Authentication
 - Transport-Layer Security (HTTPS)
 - Public Key Registry
 
-- Details in [Arc42](https://open-prevo.github.io/openprevo/#_security_and_data_protection)
+- Details in [arc42](https://open-prevo.github.io/openprevo/#_security_and_data_protection)
 ---
 
 #### new this sprint
@@ -121,8 +121,8 @@
 ### Ausblick
 
 - MVP ist zu Ende
-- Product befindet sich auf GitHub
-- Steering Comitee tagt am 14.08.
+- Produkt befindet sich auf GitHub
+- Steering Committee tagt am 14.08.
 
 ---
 ### Questions?
