@@ -91,16 +91,17 @@
 
 ### Security and data protection
 
-- private and public-key
-- Asymmetric Encryption, RSA
-- Hashing AHV
-
-_TODO: check_
+* Symmetric Encryption for data, AES 256
+* Asymmetric Encryption for Key-Exchange, RSA
+  * private and public-key
+* Hashing AHV (SHA-512)
+* Signing 
+  * data integrity 
 
 +++
 
 ### out-of-scope for the MVP
-- authentication
+- Authentication
 - Transport-Layer Security (HTTPS)
 - Public Key Registry
 
@@ -109,7 +110,11 @@ _TODO: check_
 
 #### new this sprint
 
-_TODO_
+* Validate Input from adapter 
+* Write notifications about bad input data to Excel
+* Signing of capital transfer information
+* Improve demo 
+* Cleanup Code / Documentation
 
 +++
 
