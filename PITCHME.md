@@ -82,10 +82,10 @@
 ## Resources
 
 ### [OpenPrevo @ Github](https://github.com/open-prevo)
-### [Slides](https://github.com/open-prevo/slides)
-### [Releases](https://github.com/open-prevo/openprevo/releases)
 ### [Travis Build](https://travis-ci.org/open-prevo/openprevo)
+### [Releases](https://github.com/open-prevo/openprevo/releases)
 ### [Gitter Chat](https://gitter.im/open-prevo/Lobby)
+### [Slides](https://github.com/open-prevo/slides)
 
 ---
 
