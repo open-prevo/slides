@@ -99,7 +99,7 @@ _TODO: check_
 
 +++
 
-###out-of-scope for the MVP
+### out-of-scope for the MVP
 - authentication
 - Transport-Layer Security (HTTPS)
 - Public Key Registry
