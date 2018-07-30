@@ -91,6 +91,10 @@
 ### [Gitter Chat](https://gitter.im/open-prevo/Lobby)
 ### [Slides](https://github.com/open-prevo/slides)
 
++++
+
+![Video](https://www.youtube.com/watch?v=e8w3PZcfDcE)
+
 ---
 
 ### Security and data protection
