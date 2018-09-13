@@ -1,5 +1,7 @@
 # Utility workflow to keep all branches in sync
 
+![sync all branches by merge "up"](sync-merge.png)
+
 To distribute a change on master use the following script
 
 ```bash
